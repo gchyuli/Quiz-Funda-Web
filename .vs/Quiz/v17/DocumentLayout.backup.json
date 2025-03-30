@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ypgon\\source\\repos\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F680340-9061-4C41-9BD6-8A3E4A91CD54}|..\\Backend\\Backend.csproj|c:\\users\\ypgon\\source\\repos\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|c:\\users\\ypgon\\source\\repos\\examen\\implementations\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|solutionrelative:implementations\\unidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F680340-9061-4C41-9BD6-8A3E4A91CD54}|..\\Backend\\Backend.csproj|c:\\users\\ypgon\\source\\repos\\backend\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|c:\\users\\ypgon\\source\\repos\\examen\\implementations\\empleadodalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|solutionrelative:implementations\\empleadodalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|c:\\users\\ypgon\\source\\repos\\examen\\interfaces\\iempleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|solutionrelative:interfaces\\iempleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|c:\\users\\ypgon\\source\\repos\\examen\\interfaces\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|solutionrelative:interfaces\\iunidadtrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|c:\\users\\ypgon\\source\\repos\\examen\\interfaces\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|solutionrelative:interfaces\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F680340-9061-4C41-9BD6-8A3E4A91CD54}|..\\Backend\\Backend.csproj|c:\\users\\ypgon\\source\\repos\\backend\\services\\implementations\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|c:\\users\\ypgon\\source\\repos\\examen\\implementations\\genericdalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21D713E-BE10-450C-AC62-A62739ECD33C}|DAL.csproj|solutionrelative:implementations\\genericdalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F680340-9061-4C41-9BD6-8A3E4A91CD54}|..\\Backend\\Backend.csproj|c:\\users\\ypgon\\source\\repos\\backend\\services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F680340-9061-4C41-9BD6-8A3E4A91CD54}|..\\Backend\\Backend.csproj|c:\\users\\ypgon\\source\\repos\\backend\\dto\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F680340-9061-4C41-9BD6-8A3E4A91CD54}|..\\Backend\\Backend.csproj|c:\\users\\ypgon\\source\\repos\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46632995-5168-4509-9CCE-FD0601F322DA}|..\\Entities\\Entities.csproj|c:\\users\\ypgon\\source\\repos\\entities\\entities\\quizcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Backend\\Program.cs",
+              "RelativeToolTip": "..\\Backend\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:26:14.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Examen\\Implementations\\UnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "Implementations\\UnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Examen\\Implementations\\UnidadTrabajo.cs",
+              "RelativeToolTip": "Implementations\\UnidadTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:36:15.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Backend\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "..\\Backend\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Backend\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "..\\Backend\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:30:48.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmpleadoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Examen\\Interfaces\\IEmpleadoDAL.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmpleadoDAL.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Examen\\Interfaces\\IEmpleadoDAL.cs",
+              "RelativeToolTip": "Interfaces\\IEmpleadoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:32:41.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDALImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Examen\\Implementations\\EmpleadoDALImpl.cs",
+              "RelativeDocumentMoniker": "Implementations\\EmpleadoDALImpl.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Examen\\Implementations\\EmpleadoDALImpl.cs",
+              "RelativeToolTip": "Implementations\\EmpleadoDALImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:32:24.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnidadTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Examen\\Interfaces\\IUnidadTrabajo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUnidadTrabajo.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Examen\\Interfaces\\IUnidadTrabajo.cs",
+              "RelativeToolTip": "Interfaces\\IUnidadTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:33:21.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericDALImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Examen\\Implementations\\GenericDALImpl.cs",
+              "RelativeDocumentMoniker": "Implementations\\GenericDALImpl.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Examen\\Implementations\\GenericDALImpl.cs",
+              "RelativeToolTip": "Implementations\\GenericDALImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:35:58.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "..\\Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "RelativeToolTip": "..\\Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:31:25.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "..\\Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "..\\Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:31:48.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericDAL.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Examen\\Interfaces\\IGenericDAL.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGenericDAL.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Examen\\Interfaces\\IGenericDAL.cs",
+              "RelativeToolTip": "Interfaces\\IGenericDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:35:40.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Backend\\DTO\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "..\\Backend\\DTO\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Backend\\DTO\\EmpleadoDTO.cs",
+              "RelativeToolTip": "..\\Backend\\DTO\\EmpleadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:31:09.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuizContext.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Entities\\Entities\\QuizContext.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Entities\\QuizContext.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Entities\\Entities\\QuizContext.cs",
+              "RelativeToolTip": "..\\Entities\\Entities\\QuizContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:12:52.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ypgon\\source\\repos\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ypgon\\source\\repos\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:52:50.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
